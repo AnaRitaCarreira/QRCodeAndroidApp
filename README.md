@@ -1,4 +1,3 @@
-Certainly! Here's the **README.md** translated and adapted into **English** for your GitHub repository:
 
 ---
 
