@@ -54,8 +54,7 @@
 2. Grant camera and storage permissions
 3. Run the app
 
-![screenshot]([.appqrcode_demo.mp4](https://github.com/user-attachments/assets/efff616d-2835-47e5-b392-8dbb1a53f160)) 
-
+https://github.com/AnaRitaCarreira/QRCodeAndroidApp/issues/1#issue-3096380435
 
 > When a QR Code is scanned, the app sends a `POST` request with the content to:
 >
